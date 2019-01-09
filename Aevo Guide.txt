@@ -4,3 +4,5 @@
 4. mv Ubuntu.16.aevod aevod
 5. wget https://raw.githubusercontent.com/imAltoshi/Crypto/master/Aevo.conf
 6. ./aevod
+7. cp -r -p "/root/.Aevo/" "/root/.AevoMN01/"
+8. ./aevod -datadir=/root/.AevoMN01
