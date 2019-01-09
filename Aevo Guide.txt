@@ -1,4 +1,4 @@
-1. wget https://github.com/imAltoshi/Crypto/blob/master/aevo.sh
+1. wget https://raw.githubusercontent.com/imAltoshi/Crypto/master/Aevo.sh
 2. ./aevo.sh
 3. wget https://github.com/aevocommunity/aevocoin/releases/download/v1.0/Ubuntu.16.aevod
 4. mv Ubuntu.16.aevod aevod
